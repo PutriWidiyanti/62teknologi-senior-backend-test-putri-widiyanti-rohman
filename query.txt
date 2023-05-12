@@ -1,0 +1,8 @@
+CREATE DATABASE example_teknologites
+
+CREATE TABLE employee (
+    id int AUTO_INCREMENT PRIMARY KEY,
+    name varchar(512),
+    mobile int,
+    salaray int
+);
